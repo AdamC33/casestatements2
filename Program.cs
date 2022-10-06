@@ -39,7 +39,6 @@ try
             Console.WriteLine("Oh no! You failed!");
             break;
     }
-    Console.WriteLine(percentage);
 }
 catch
 {
